@@ -5,3 +5,4 @@ hour, min, sec = input().split(':')
 
 print('%d'% int(min))
 
+ 
